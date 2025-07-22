@@ -1,4 +1,6 @@
-## Hi there 👋
+## 💬 Hi there!
+I'm Albin, currently learning more software engineering fundamentals and programming in general.
+At the time, I'm starting some beginner projects and completing CTF's within Cybersecurity.
 
 <!--
 **albinkaarlin/albinkaarlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
